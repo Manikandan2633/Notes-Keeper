@@ -1,0 +1,31 @@
+
+.home-container{
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+
+}
+
+.notes-form input,textarea{
+  width: 100%;
+  padding: 10px;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+.notes-form button{
+  width: 100%;
+  padding: 10px;
+  font-size: 15px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  background-color: aqua;
+  cursor: pointer;
+}
+
+.notes-form button:hover{
+  background-color: aquamarine;
+}
